@@ -1,3 +1,7 @@
 Welcome
+<<<<<<< HEAD
 First modification
 Second modification
+=======
+programmer B first modification
+>>>>>>> Branch2
